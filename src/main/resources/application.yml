@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: design
+server:
+  port: 8012
+app:
+  version: @project.version@
